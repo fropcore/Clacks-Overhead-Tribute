@@ -5,7 +5,7 @@
  * Description: Sends an "X-Clacks-Overhead" header as a quiet tribute. Defaults to "Ozzy Osbourne (The Prince of Darkness)".
  * Version: 1.0.0
  * Author: Frop Core Labs
- * Author URI: https://fropcore.github.io/
+ * Author URI: https://www.github.com/fropcore
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  * Requires PHP: 7.2
